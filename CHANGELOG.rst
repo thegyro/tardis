@@ -1,7 +1,11 @@
 0.9.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+New Features
+^^^^^^^^^^^^
+- added data_sources and version to `AtomData` set
+- added atomic database table with downloads to documentation
+- added more conversion routines for Species strings (e.g. Si IX) to util
 
 
 0.9.1 (2014-02-03)
