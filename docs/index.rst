@@ -13,10 +13,9 @@ rapid spectral modelling of supernovae. The code is described in this documentat
 
     installation
     running
-    gui
     uses
     examples/examples
-    atomic_data
+    atomic/atomic_data
     atomic
     plasma
     montecarlo
